@@ -237,3 +237,7 @@
 /Users/azimzada.mahammad/work/me/graphql-backend/GraphQLDemo/obj/Debug/net9.0/GraphQLDemo.pdb
 /Users/azimzada.mahammad/work/me/graphql-backend/GraphQLDemo/obj/Debug/net9.0/GraphQLDemo.genruntimeconfig.cache
 /Users/azimzada.mahammad/work/me/graphql-backend/GraphQLDemo/obj/Debug/net9.0/ref/GraphQLDemo.dll
+/Users/azimzada.mahammad/work/me/graphql-backend/GraphQLDemo/obj/Debug/net9.0/GraphQLDemo.sourcelink.json
+/Users/azimzada.mahammad/work/me/graphql-backend/GraphQLDemo/bin/Debug/net9.0/GraphQL.Server.Ui.Altair.dll
+/Users/azimzada.mahammad/work/me/graphql-backend/GraphQLDemo/bin/Debug/net9.0/GraphQL.Server.Ui.GraphiQL.dll
+/Users/azimzada.mahammad/work/me/graphql-backend/GraphQLDemo/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll

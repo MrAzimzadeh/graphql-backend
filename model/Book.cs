@@ -1,13 +1,14 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
+namespace context;
 public class Post
 {
     [Key]
-    public Guid Id { get; set; }
+    public Guid? Id { get; set; }
     public string Title { get; set; }
     public string Content { get; set; }
-    public DateTime CreatedAt { get; set; }
+    public DateTime? CreatedAt { get; set; }
     public string Author { get; set; }
     public ICollection<Comment> Comments { get; set; }
 
